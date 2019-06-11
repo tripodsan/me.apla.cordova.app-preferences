@@ -27,7 +27,8 @@
     "q": "^1.5.1",
     "elementtree": "^0.1.7",
     "jasmine": "^3.4.0",
-    "plist": "3.0.1"
+    "plist": "3.0.1",
+    "xcode": "^2.0.0"
   },
   "keywords": [
     "preferences",
