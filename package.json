@@ -22,13 +22,15 @@
   "bin": {
     "cordova-app-preferences-generator": "bin/build-app-settings.js"
   },
+  "dependencies": {
+    "xcode": "^2.0.0"
+  },
   "devDependencies": {
     "cordova": "^9.0.0",
     "q": "^1.5.1",
     "elementtree": "^0.1.7",
     "jasmine": "^3.4.0",
-    "plist": "3.0.1",
-    "xcode": "^2.0.0"
+    "plist": "3.0.1"
   },
   "keywords": [
     "preferences",
